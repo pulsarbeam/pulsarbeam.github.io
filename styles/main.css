@@ -19,6 +19,7 @@ h1 {
  p {
   Color: #748B75;
 
+
 }
 
 .list {
@@ -68,8 +69,11 @@ img{
 }
 
 .bottom-text{
-text-decoration: none;
+
 color: #dd7893;
+position:absolute;
+
+bottom: 0;
 }
 
 
@@ -78,6 +82,11 @@ color: #dd7893;
   color: #fb0043;
 }
 
+.align-left {
+  text-align: left; 
+
+
+}
 
  
 @media (max-width: 320px) {
