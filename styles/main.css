@@ -70,17 +70,16 @@ img{
 
 .bottom-text{
 
-color: #dd7893;
-position:absolute;
-
+position: absolute;
+padding-left: 10%;
+padding-right: 10%;
+margin-right: 20%;
+background-color: #503D42;
+text-align: center;
 bottom: 0;
 }
 
 
-.bottom-text:hover{
-  
-  color: #fb0043;
-}
 
 .align-left {
   text-align: left; 
