@@ -87,6 +87,10 @@ left: 0;
 
 }
 
+.margin ul li{
+  margin: 10px;
+}
+
  
 @media (max-width: 320px) {
   h1 { 
